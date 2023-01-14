@@ -24,7 +24,7 @@ public class Calculator {
             return;
       }
       System.out.print("\nРезультат операции:\n");
-      System.out.printf(num1 + " " + op + " " + num2 + " = " + ans);
+      System.out.printf("" + ans);
    }
   }
   
